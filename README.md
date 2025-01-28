@@ -1,4 +1,4 @@
-# :wave: Hi there! Welcome to my GitHub Profile
+# <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="50"> Hi there! Welcome to my GitHub Profile
 
 I'm Indralekha, a Microsoft-certified **Data Engineer** with extensive experience in designing, building, and optimizing data pipelines and workflows. I specialize in **SQL**, **Python**, **Big Data Technologies**, and **Cloud Platforms** like AWS and Azure.
 
