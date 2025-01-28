@@ -22,17 +22,6 @@ I'm Indralekha, a passionate **Data Engineer** with extensive experience in desi
 
 ---
 
-### 📂 Featured Projects
-1. **[Real-time Data Pipeline with Apache Kafka and Spark Streaming](#)**  
-   Built a scalable data pipeline to process and analyze streaming data in real time.
-
-2. **[Customer Churn Prediction Model](#)**  
-   Developed a machine learning model to predict customer churn with 85% accuracy using Python and Scikit-learn.
-
-3. **[Sales Performance Dashboard](#)**  
-   Designed an interactive dashboard in Power BI to visualize sales KPIs for better decision-making.
-
----
 
 ### 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/indra-a-902184173/)
