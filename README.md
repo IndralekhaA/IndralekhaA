@@ -41,9 +41,9 @@ I'm Indralekha, a passionate **Data Engineer** with extensive experience in desi
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=IndralekhaAe&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=IndralekhaA&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IndralekhaA&layout=compact&theme=radical)
 
 ---
 
