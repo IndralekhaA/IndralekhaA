@@ -1,14 +1,14 @@
 # 👋 Hi there! Welcome to my GitHub Profile
 
-I'm Indralekha, a passionate **Data Engineer** with extensive experience in designing, building, and optimizing data pipelines and workflows. I specialize in **SQL**, **Python**, **Big Data Technologies**, and **Cloud Platforms** like AWS and Azure.
+I'm Indralekha, a Microsoft-certified **Data Engineer** with extensive experience in designing, building, and optimizing data pipelines and workflows. I specialize in **SQL**, **Python**, **Big Data Technologies**, and **Cloud Platforms** like AWS and Azure.
 
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working as a **Data Engineer**.
+- 🔭 Currently working as a **Data Engineer** | Aspiring Machine Learning Specialist
 - 🎓 Graduated Master's in **Data Science**.
 - 🌟 Enthusiastic about building scalable data solutions and exploring **Machine Learning** applications.
-- 🌍 Interested in public-sector analytics and advancing education equity through data.
+- 📈 **Goal:** To simplify complex data processes and leverage data for societal impact, especially in education and public-sector analytics.  
 - 📍 Based in the USA.
 
 ---
@@ -17,7 +17,7 @@ I'm Indralekha, a passionate **Data Engineer** with extensive experience in desi
 - **Programming:** Python, SQL, Java
 - **Data Engineering:** Apache Spark, Hadoop, Kafka, ETL Development
 - **Big Data Tools:** AWS Redshift, Azure Synapse, Snowflake
-- **Data Visualization:** Power BI, Tableau, Matplotlib
+- **Data Visualization:** Power BI, Tableau, Matplotlib, Seaborn
 - **Analytics Tools:** R, SAS, SPSS
 
 ---
