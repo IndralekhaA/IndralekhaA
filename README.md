@@ -24,9 +24,9 @@ I'm Indralekha, a passionate **Data Engineer** with extensive experience in desi
 
 
 ### 📫 Let's Connect
-- 💼[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/indra-a-902184173)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/indra-a-902184173)
 
-- 📧 Email: indralekha29@gmail.com
+- [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:techia888@example.com)
 
 ---
 
