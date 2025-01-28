@@ -35,15 +35,13 @@ I'm Indralekha, a passionate **Data Engineer** with extensive experience in desi
 ---
 
 ### 📫 Let's Connect
-- 🌐 [Portfolio Website](#) (Add your link)
 - 💼 [LinkedIn](https://www.linkedin.com/in/indra-a-902184173/)
-- 🐦 [Twitter](https://twitter.com/your-twitter)
-- 📧 Email: indralekhaalmala@gmail.com
+- 📧 Email: indralekha29@gmail.com
 
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=IndralekhaAe&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
