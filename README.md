@@ -12,28 +12,22 @@ I'm Indralekha, a Microsoft-certified **Data Engineer** with extensive experienc
 - 📍 Based in the USA.
 
 ---
-
-### 💼 Skills
-- **Programming:** Python, SQL, Java
-- **Data Engineering:** Apache Spark, Hadoop, Kafka, ETL Development
-- **Big Data Tools:** AWS Redshift, Azure Synapse, Snowflake
-- **Data Visualization:** Power BI, Tableau, Matplotlib, Seaborn
-- **Analytics Tools:** R, SAS, SPSS
-
----
 ## 🛠️ Tech Stack & Skills
 
 ### 📊 Data Analysis
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-<img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy">
-<img src="https://img.shields.io/badge/SQL-F9CF00?style=for-the-badge&logo=sql&logoColor=black" alt="SQL">
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
-<img src="https://img.shields.io/badge/Power_BI-F2C80F?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy">
+  <img src="https://img.shields.io/badge/SQL-F9CF00?style=for-the-badge&logo=sql&logoColor=black" alt="SQL">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
+  <img src="https://img.shields.io/badge/Power_BI-F2C80F?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
+  </p>
+
 ### ⚙️ Data Engineering
 
 <p align="left">
